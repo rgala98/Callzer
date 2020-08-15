@@ -7,10 +7,10 @@ I created this app for learing node js and Socket.io
 
 Technologies used:
 
-Node.js
-Express
-WebRTC
-PeerJS
-Socket.IO
-EJS
+- Node.js
+- Express
+- WebRTC
+- PeerJS
+- Socket.IO
+- EJS
 
